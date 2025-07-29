@@ -309,7 +309,7 @@ Over the past year, I’ve worked on multiple real-world projects—from token l
             <div className="relative">
               <div className="w-80 h-80 mx-auto rounded-2xl overflow-hidden shadow-2xl border border-gray-200">
                 <Image
-                  src="/images/pfp.png"
+                  src="/images/136886602.jpeg"
                   alt="Profile"
                   width={320}
                   height={320}
